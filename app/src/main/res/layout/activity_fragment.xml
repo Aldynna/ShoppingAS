@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This FrameLayout will be the container view for a CrimeFragment.
+    Notice that the container view is completely generic;
+    it does not name the CrimeFragment class.
+    You can and will use this same layout to host other fragments.
+    Note that while activity_crime.xml consists solely of a container view for a single fragment,
+    an activity’s layout can be more complex and define multiple container views as well as widgets of its own.
+-->
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />

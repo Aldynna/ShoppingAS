@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingAS</string>
+    <string name="shop_title_hint">Enter a title for the crime.</string>
+    <string name="shop_title_label">Title</string>
+    <string name="shop_details_label">Details</string>
+    <string name="shop_new_label">Novo u ponudi</string>
+</resources>
